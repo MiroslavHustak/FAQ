@@ -1,4 +1,4 @@
-**Disclaimer: Pokud Vámi tvořený kód nemá po zkompilování chyby (nepotřebujete debugger), nikdy neměl nereprodukovatelné chyby, snadno se udržuje a i při rozsáhlých změnách se nikdy neopravitelně "nepokazí" (či jak to říct diplomaticky), není třeba číst dále.**
+**Disclaimer: Pokud Vámi tvořený kód nemá po zkompilování chyby, včetně nereprodukovatelných chyb (nepoužíváte debugger), snadno se udržuje a i při rozsáhlých změnách se nikdy neopravitelně "nepokazí" (či jak to říct diplomaticky), není třeba číst dále.**
 <br>
 
 **Proč F# (pouze funkcionální programování)?**
