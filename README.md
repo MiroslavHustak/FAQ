@@ -27,7 +27,7 @@ Striktně vzato nemůžete. Přiblížit se ano. Nicméně zkuste si přepsat n�
 
 **V F# jsou ale přece i OOP a procedurální prvky?** 
 
-Ano, jsou, kvůli interoperabilitě s .NET knihovnami psanými v C#. Určitá disciplina je tedy nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat procedurální a OOP prvky z jiných důvodů, garantovat větší ziskovost nemohu.  
+Ano, jsou, kvůli interoperabilitě s .NET knihovnami psanými v C#. Určitá disciplina je tedy nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat procedurální a OOP prvky z jiných důvodů (což ale jde proti podnikatelské logice), garantovat větší ziskovost nemohu.  
 
 **Kde seženu F# programátory?** 
 
