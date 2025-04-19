@@ -8,6 +8,7 @@ Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu Vám
 Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně). Nicméně tady chápu, že někdo jiný může mít na "přehlednost a jasnost" zcela opačný názor, než já.
 
 **Důvod, že tomu tak opravdu je?**
+Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takové, ale:
 <ul>
 <li>Immutability všude</li>
 <li>Stejné typy ve všech větvích kódu</li>
