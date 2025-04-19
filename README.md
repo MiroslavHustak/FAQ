@@ -5,9 +5,10 @@
 
 Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu Vám FSC nic neodpustí), debugger jen velmi zřídka, jestli vůbec, méně unit testů, pokud vůbec (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při pure functions.
 
-Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně). Nicméně tady chápu, že někdo jiný může mít na "přehlednost a jasnost" zcela opačný názor, než já.
+Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně). "Radostnější" programování. Nicméně tady chápu, že někdo jiný může mít na "přehlednost, jasnost a radostnost" zcela opačný názor, než já.
 
-**Důvod, že tomu tak opravdu je?**
+**Příčiny větší ziskovosti F#?**
+
 Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takové, ale:
 <ul>
 <li>Immutability všude</li>
@@ -23,6 +24,10 @@ Bohužel, tady je třeba si to vyzkoušet a přesvědčit se sám (či někdo, k
 **V C# je dnes plno funkcionálních prvků, funkcionálně mohu přece programovat i v tomto jazyce?**
 
 Striktně vzato nemůžete. Přiblížit se ano. Nicméně zkuste si přepsat některý funkcionální kód do "funkcionálního C#", a domnívám se, že sami velice rychle přijdete na to, že to opravdu není to, co byste chtěli. Přidáním volantu a kol z Porsche ke koloběžce z této koloběžky Porsche neuděláte. 
+
+**V F# jsou ale přece i OOP a procedurální prvky?** 
+
+Ano, jsou, kvůli interoperabilitě s .NET knihovnami psanými v C#. Určitá disciplina je tedy nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat procedurální a OOP prvky z jiných důvodů, garantovat větší ziskovost nemohu.  
 
 **Kde seženu F# programátory?** 
 
