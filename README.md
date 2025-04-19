@@ -28,7 +28,7 @@ Ano, jsou, kvůli interoperabilitě s .NET knihovnami psanými v C#. Určitá di
 
 **Kde seženu F# programátory?** 
 
-Pokud je "nezlanaříte" z konkurenčních firem v Praze anebo nechcete remote F# programátory (těch je po světě plno), pak ve vlastní firmě. Funkcionální programování je jednoduché, intuitivní, naučení se FP je u dobrých programátorů otázka 3-4 dnů (pro samotný jazyk a pak ta samá doba pro každou technologii pro web, desktop či mobil), u průměrných programátorů, jako jsem já, je to cca 2-3 týdny na jazyk/technologii. Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzdělání a žádnou pomoc od kolegů, neb jsem OSVČ, pak už musí FP zvládnout opravdu každý. Jediné, co na funkcionálním programování může být velmi problematické, je neochota přepnout myšlení. Funkcionální programování je opravdu zcela jiné.
+Pokud je "nezlanaříte" z konkurenčních firem v Praze anebo nechcete remote F# programátory (těch je po světě plno), pak ve vlastní firmě. Funkcionální programování je jednoduché, intuitivní, naučení se FP je u dobrých programátorů otázka 3-4 dnů (pro samotný jazyk a pak ta samá doba pro každou technologii pro web, desktop či mobil), u průměrných programátorů, jako jsem já, je to cca 2-3 týdny na jazyk/technologii. Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzdělání a žádnou pomoc od kolegů, neb jsem OSVČ, pak už musí FP zvládnout opravdu každý, navíc kdy LLMs mohou často významně pomoci s výukovým procesem. Jediné, co na funkcionálním programování může být velmi problematické, je neochota přepnout myšlení. Funkcionální programování je opravdu zcela jiné.
 
 **Je něco, co C# má a F# ne?** 
 
