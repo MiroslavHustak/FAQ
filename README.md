@@ -1,6 +1,3 @@
-**Disclaimer: Pokud Vámi tvořený kód nemá po zkompilování chyby, včetně nereprodukovatelných chyb (nepoužíváte debugger), snadno se udržuje a i při rozsáhlých změnách se nikdy neopravitelně "nepokazí" (či jak to říct diplomaticky), není třeba číst dále.**
-<br>
-
 **Proč F# (pouze funkcionální programování)?**
 
 Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu Vám FSC nic neodpustí), debugger jen velmi zřídka, jestli vůbec, méně unit testů, pokud vůbec (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při pure functions, žádné nereprodukovatelné chyby u pure functions.
