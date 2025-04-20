@@ -23,7 +23,7 @@ Striktně vzato nemůžete. Přiblížit se ano. Nicméně zkuste si přepsat n�
 
 **V F# jsou ale přece i OOP a imperativní prvky?** 
 
-Ano, jsou, kvůli interoperabilitě s .NET knihovnami psanými v C#. Určitá disciplina je tedy v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky z jiných důvodů (což ale jde proti podnikatelské logice), garantovat větší ziskovost nemohu.  
+Ano, jsou, kvůli interoperabilitě s .NET knihovnami psanými v C#. Určitá disciplina je tedy v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky z jiných důvodů (což ale jde proti podnikatelské logice), garantovat větší ziskovost, přehlednost, jasnost atd. nemohu.  
 
 **Kde seženu F# programátory?** 
 
