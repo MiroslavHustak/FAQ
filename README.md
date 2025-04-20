@@ -8,10 +8,10 @@ Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než
 
 Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takové, ale:
 
--- Immutability všude
--- Stejné typy ve všech větvích kódu
--- Absence null (příp. jejich okamžitá eliminace s Option types na vstupu z .NET knihoven)
--- Single-direction dependency
+- Immutability všude
+- Stejné typy ve všech větvích kódu
+- Absence null (příp. jejich okamžitá eliminace s Option types na vstupu z .NET knihoven)
+- Single-direction dependency
 
 **Tomu nevěřím / nedovedu si to představit, jaký je důkaz?**
 
