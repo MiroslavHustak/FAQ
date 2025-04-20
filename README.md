@@ -1,18 +1,17 @@
 **Proč F# (pouze funkcionální programování)?**
 
-Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu Vám FSC nic neodpustí), debugger jen velmi zřídka, jestli vůbec, méně unit testů, pokud vůbec (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při pure functions, žádné nereprodukovatelné chyby u pure functions.
+Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu Vám FSC nic neodpustí), debugger se používá jen velmi zřídka, jestli vůbec, je méně unit testů, pokud vůbec (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při používání pure functions, žádné nereprodukovatelné chyby u pure functions.
 
-Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně). "Radostnější" programování. Nicméně tady chápu, že někdo jiný může mít na "přehlednost, jasnost a radostnost" zcela opačný názor, než já.
+Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než v ekvivalentním C# kódu). "Radostnější" programování. Nicméně tady chápu, že někdo jiný může mít na "přehlednost, jasnost a radostnost" zcela opačný názor, než já.
 
 **Příčiny větší ziskovosti F#?**
 
 Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takové, ale:
-<ul>
-<li>Immutability všude</li>
-<li>Stejné typy ve všech větvích kódu</li>
-<li>Absence null (příp. jejich okamžitá eliminace s Option types na vstupu z .NET knihoven)</li>
-<li>Single-direction dependency</li>
-</ul>
+
+-- Immutability všude
+-- Stejné typy ve všech větvích kódu
+-- Absence null (příp. jejich okamžitá eliminace s Option types na vstupu z .NET knihoven)
+-- Single-direction dependency
 
 **Tomu nevěřím / nedovedu si to představit, jaký je důkaz?**
 
@@ -28,8 +27,12 @@ Ano, jsou, kvůli interoperabilitě s .NET knihovnami psanými v C#. Určitá di
 
 **Kde seženu F# programátory?** 
 
-Pokud je "nezlanaříte" z konkurenčních firem v Praze anebo nechcete remote F# programátory (těch je po světě plno), pak ve vlastní firmě. Funkcionální programování je jednoduché, intuitivní, naučení se FP je u dobrých programátorů otázka 3-4 dnů (pro samotný jazyk a pak ta samá doba pro každou technologii pro web, desktop či mobil), u průměrných programátorů, jako jsem já, je to cca 2-3 týdny na jazyk/technologii. Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzdělání a žádnou pomoc od kolegů, neb jsem OSVČ, pak už musí FP zvládnout opravdu každý, navíc kdy LLMs mohou často významně pomoci s výukovým procesem. Jediné, co na funkcionálním programování může být velmi problematické, je neochota přepnout myšlení. Funkcionální programování je opravdu zcela jiné.
+Pokud je "nezlanaříte" z konkurenčních firem v Praze anebo nechcete remote F# programátory (těch je po světě plno), pak ve vlastní firmě. Funkcionální programování je jednoduché, intuitivní, naučení se FP je u dobrých programátorů otázka 3-4 dnů (pro samotný jazyk a pak ta samá doba pro každou technologii pro web, desktop či mobil), u průměrných programátorů, jako jsem já, je to cca 2-3 týdny na jazyk/technologii. Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzdělání a žádnou pomoc od kolegů, neb jsem OSVČ, pak už musí FP zvládnout opravdu každý, navíc kdy LLMs mohou často významně pomoci s výukovým procesem. Jediné, co může být velmi problematické, je neochota přepnout myšlení. Funkcionální programování je opravdu zcela jiné.
+
+**Bude muset F# programátor znát kromě FP i celé OOP v F#?** 
+
+Ano i ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální (toto procento ale velmi závisí na okolnostech). Zbytek obvykle spočívá v nastavování vlastností (properties) nebo inicializaci objektů (volání konstruktorů tříd), a to v souvislosti s používanými knihovnami z .NET. Takže znalost OOP nemusí být nikterak velká. Pokud byste však chtěli vytvořit funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude nezbytné znát důkladně jak FP, tak i OOP v prostředí F#.
 
 **Je něco, co C# má a v F# to chybí?** 
 
-Ano, NullReferenceException. :-)
+Ano, NullReferenceException :-). A classic joke :-).
