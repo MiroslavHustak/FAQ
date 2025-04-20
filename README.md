@@ -1,6 +1,6 @@
 **Proč F# (pouze funkcionální programování)?**
 
-Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu Vám FSC prakticky nic neodpustí), debugger se používá jen velmi zřídka, jestli vůbec, je méně unit testů, pokud vůbec (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při používání pure functions, žádné nereprodukovatelné chyby u pure functions.
+Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu Vám FSC prakticky nic neodpustí), debugger se používá jen velmi zřídka, jestli vůbec, je méně unit testů, pokud vůbec (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při používání pure functions, žádné nereprodukovatelné chyby u pure functions, při údržbě, doplňování, změnách je funkcionální kód "odolnější ("nerozhodí" se tak snadno).
 
 Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než v ekvivalentním C# kódu). "Radostnější" programování. Nicméně tady chápu, že někdo jiný může mít na "přehlednost, jasnost a radostnost" zcela opačný názor, než já.
 
