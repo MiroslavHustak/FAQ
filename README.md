@@ -17,7 +17,7 @@ Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takov�
 
 Bohužel, tady je třeba si to vyzkoušet a přesvědčit se sám (či někdo, komu věříte, což já nejsem), chápu, že může být těžké si z výše uvedeného představit větší ziskovost. Mohu Vám na požádání poskytnout veškeré své materiály ohledně funkcionálního programování, či byt jinak nápomocen **(například zdarma účastí na Vašem ověřovacím zkušebním F# projektu)**. 
 
-**V C# je dnes plno funkcionálních prvků, funkcionálně mohu přece programovat i v tomto jazyce?**
+**V C# je dnes plno funkcionálních prvků, plně funkcionálně mohu přece programovat i v tomto jazyce?**
 
 Striktně vzato nemůžete. Přiblížit se ano. Nicméně zkuste si přepsat některý funkcionální kód v Haskellu či F# do "funkcionálního C#", a domnívám se, že sami velice rychle přijdete na to, že to opravdu není to, co byste chtěli. C# nebylo na FP "konstruováno" - přidáním volantu a kol (funkcionálních prvků) z Porsche (F#, Haskell) ke koloběžce (C#) z této koloběžky Porsche neuděláte. 
 
