@@ -31,7 +31,7 @@ Pokud je "nezlanaříte" z konkurenčních firem v Praze anebo nechcete remote F
 
 **Bude muset F# programátor znát kromě FP i celé OOP v F#?** 
 
-Ano i ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální (toto procento ale velmi závisí na okolnostech). Zbytek obvykle spočívá v nastavování vlastností (properties) nebo inicializaci objektů (volání konstruktorů tříd), a to v souvislosti s používanými knihovnami z .NET. Takže znalost OOP nemusí být nikterak velká. Pokud byste však chtěli vytvořit funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude nezbytné znát důkladně jak FP, tak i OOP v prostředí F#.
+Ano i ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální (toto procento ale velmi závisí na okolnostech). Zbytek obvykle spočívá v nastavování vlastností (properties) nebo inicializaci objektů (volání konstruktorů tříd), a to v souvislosti s používanými knihovnami z .NET. Takže znalost OOP nemusí být nikterak velká. Pokud byste však chtěli se zapojit do vytváření OSS a vytvořit třeba funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude nezbytné znát důkladně jak FP, tak i OOP v prostředí F#.
 
 **Je něco, co C# má a v F# to chybí?** 
 
