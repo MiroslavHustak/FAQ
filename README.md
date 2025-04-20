@@ -10,7 +10,7 @@ Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takov�
 
 - Immutability všude
 - Stejné typy ve všech větvích kódu
-- Absence null (příp. jejich okamžitá eliminace s Option types na vstupu z .NET knihoven)
+- Absence nulls (příp. jejich okamžitá eliminace s Option types na vstupu z .NET knihoven)
 - Single-direction dependency
 
 **Tomu nevěřím / nedovedu si to představit, jaký je důkaz?**
