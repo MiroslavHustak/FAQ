@@ -10,7 +10,7 @@ Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takov�
 
 - Immutability všude
 - Stejné typy ve všech větvích kódu
-- Absence nulls (příp. jejich okamžitá eliminace pomocí Option nebo Result na vstupu z .NET knihoven)
+- Absence nulls u F# typů (plus okamžitá eliminace nulls, které se snaží vplížit z .NET knihoven, pomocí Option nebo Result)
 - Single-direction dependency
 
 **Tomu nevěřím / nedovedu si to představit, jaký je důkaz?**
