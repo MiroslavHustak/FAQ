@@ -1,6 +1,6 @@
 **Proč F# (pouze funkcionální programování)?**
 
-Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu Vám FSC prakticky nic neodpustí), debugger se používá jen velmi zřídka, jestli vůbec, je méně unit testů, pokud vůbec (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při používání pure functions, žádné nereprodukovatelné chyby u pure functions, při údržbě, doplňování, změnách je funkcionální kód "odolnější ("nerozhodí" se tak snadno).
+Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu vám FSC prakticky nic neodpustí), debugger se používá jen velmi zřídka, jestli vůbec, je méně unit testů, pokud vůbec (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při používání pure functions, žádné nereprodukovatelné chyby u pure functions, při údržbě, doplňování, změnách je funkcionální kód "odolnější ("nerozhodí" se tak snadno).
 
 Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než v ekvivalentním C# kódu). "Radostnější" programování. Nicméně tady chápu, že někdo jiný může mít na "přehlednost, jasnost a radostnost" zcela opačný názor, než já.
 
@@ -31,7 +31,7 @@ Pokud je "nezlanaříte" z konkurenčních firem v Praze anebo nechcete spolupra
 
 **Bude muset F# programátor znát kromě FP i celé OOP v F#?** 
 
-Ano i ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální (toto procento ale velmi závisí na okolnostech). Zbytek obvykle spočívá v nastavování vlastností (properties) nebo inicializaci objektů (volání konstruktorů tříd), a to v souvislosti s používanými knihovnami z .NET. Takže stačí minimální znalost OOP. Pokud byste se však chtěli zapojit do vývoje OSS a vytvořit třeba funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude nezbytné znát důkladně nejen FP, ale i OOP (a to jak v F#, tak i v C#).
+Ano i ne. Normálně tedy ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální (toto procento ale velmi závisí na okolnostech). Zbytek obvykle spočívá v nastavování vlastností (properties) nebo inicializaci objektů (volání konstruktorů tříd), a to v souvislosti s používanými knihovnami z .NET. Takže stačí jen minimální znalost OOP. Pokud byste se však chtěli zapojit do vývoje OSS a vytvořit třeba funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude třeba OOP znát.
 
 **Je něco, co C# má a v F# to chybí?** 
 
