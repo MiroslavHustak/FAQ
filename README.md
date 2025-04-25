@@ -6,7 +6,7 @@ Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než
 
 **Příčiny větší ziskovosti F#?**
 
-Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takové, ale:
+Je to možná překvapivé, ale hlavním důvodem nejsou funkcionální prvky jako takové, ale:
 
 - Immutability všude
 - Stejné typy ve všech větvích kódu
