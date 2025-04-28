@@ -35,7 +35,7 @@ Ano i ne. Normálně tedy ani ne. Při běžném programování sice nebudete m�
 
 **Jsou při vibe coding lepší výsledky u FP nebo u OOP?** 
 
-Nejen já bych rád znal odpověď na tuto otázku. Drtivá většina dnešních FP programátorů sice zná OOP (neb tím začínali), nicméně když už dnes OOP nepoužívají, také hledají odpověď u jiných - a to můžete být, na rozdíl od nás, i vy :-). Těšíme se na vaši "porovnávací" zkušenost s vibe coding v OOP a FP. Mimochodem, LLMs tvrdí, že lepší výsledky jsou u FP. Ještě bych chtěl poznamenat, že se k vibe coding stavím s velikou opatrností (nemám zkušenost s tím, že by mne LLMs nahradily, spíše mám zkušenost s tím, že míra halucinací LLMs se složitosti kódu vzrůstá), nicméně do jisté míry může vibe coding pomoci, tak jako IntelliSense.
+Nejprve bych chtěl poznamenat, že se k vibe coding stavím s velikou opatrností (nemám zkušenost s tím, že by mne LLMs nahradily, spíše mám zkušenost s tím, že míra halucinací LLMs se složitosti kódu vzrůstá), nicméně do jisté míry může vibe coding pomoci, tak jako IntelliSense. Co se týče otázky - nejen já bych rád na ni znal odpověď. Drtivá většina dnešních FP programátorů sice zná OOP (neb tím začínali), nicméně když už dnes OOP nepoužívají, také hledají odpověď u jiných - a to můžete být, na rozdíl od nás, i vy :-). Těšíme se na vaši "porovnávací" zkušenost s vibe coding v OOP a FP. Mimochodem, LLMs tvrdí, že lepší výsledky jsou u FP. 
 
 **Je něco, co C# má a v F# to chybí?** 
 
