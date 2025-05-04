@@ -39,4 +39,4 @@ Nejprve bych chtěl poznamenat, že se k vibe coding stavím s velikou opatrnost
 
 **Je něco, co C# má a v F# to chybí?** 
 
-Ano, NullReferenceException :-). A classic joke :-).
+Ano, NullReferenceException :-). 
