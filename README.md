@@ -33,10 +33,6 @@ Pokud je "nezlanaříte" z konkurenčních firem v Praze anebo nechcete spolupra
 
 Ano i ne. Normálně tedy ani ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální (toto procento ale velmi závisí na okolnostech). Zbytek nejčastějí spočívá v nastavování vlastností (properties), inicializaci objektů (volání konstruktorů tříd), nějaká ta metoda či dědičnost se také vyskytne - vše v souvislosti s používanými knihovnami z .NET (výjimkou je builder pro CE s použitím metod na SCDU). Takže abych odpověděl na otázku - stačí jen minimální znalost OOP. Pokud byste se však chtěli zapojit do vývoje OSS a vytvořit třeba funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude třeba OOP znát.
 
-**Jsou při vibe coding lepší výsledky u FP nebo u OOP?** 
-
-Nejprve bych chtěl poznamenat, že se k vibe coding stavím s velikou opatrností (nemám zkušenost s tím, že by mne LLMs nahradily, spíše mám zkušenost s tím, že míra halucinací LLMs se složitosti kódu vzrůstá), nicméně do jisté míry může vibe coding pomoci, tak jako IntelliSense. Co se týče otázky - nejen já bych rád na ni znal odpověď. Drtivá většina dnešních FP programátorů sice zná OOP (neb tím začínali), nicméně když už dnes OOP nepoužívají, také hledají odpověď u jiných - a to můžete být, na rozdíl od nás, i vy :-). Těšíme se na vaši "porovnávací" zkušenost s vibe coding v OOP a FP. Mimochodem, LLMs tvrdí, že lepší výsledky jsou u FP. 
-
 **Je něco, co C# má a v F# to chybí?** 
 
 Ano, NullReferenceException :-). 
