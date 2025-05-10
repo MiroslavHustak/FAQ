@@ -2,7 +2,7 @@
 
 Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu vám FSC prakticky nic neodpustí), debugger se používá jen velmi zřídka, jestli vůbec (a to "zřídka" nastává zpravidla jen při interoperabilitě s .NET knihovnami), je méně unit testů, pokud vůbec má je smysl psát (integration tests a PBT samozřejmě ano), méně problémů při parallel programming při používání pure functions, žádné nereprodukovatelné chyby u pure functions, při údržbě, doplňování, změnách je funkcionální kód "odolnější ("nerozhodí" se tak snadno).
 
-Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než v ekvivalentním C# kódu). Nicméně chápu, že někdo jiný může mít na "přehlednost, jasnost" zcela opačný názor, než já.
+Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než v ekvivalentním C# kódu). Nicméně chápu, že někdo jiný může mít na "přehlednost a jasnost" zcela opačný názor, než já.
 
 **Příčiny větší ziskovosti F#?**
 
