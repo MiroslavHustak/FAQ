@@ -21,7 +21,7 @@ Bohužel, tady je třeba si to vyzkoušet a přesvědčit se sám (či někdo, k
 
 Striktně vzato plně funkcionálně nemůžete. Přiblížit se ano. Nicméně zkuste si přepsat některý funkcionální kód v Haskellu či F# do "funkcionálního C#", a domnívám se, že sami velice rychle přijdete na to, že to opravdu není to, co byste chtěli (a že to bylo alespoň 2x delší, že? :-) ). C# nebylo na FP "konstruováno" - přidáním volantu a kol (funkcionálních prvků) z Porsche (F#, Haskell) ke koloběžce (C#) z této koloběžky Porsche neuděláte. 
 
-**Ale v F# jsou přece i OOP a imperativní prvky ...** 
+**Ale i v F# jsou přece OOP a imperativní prvky ...** 
 
 Ano, jsou, kvůli interoperabilitě s .NET knihovnami psanými v C#. Určitá disciplina je tedy v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky ne z důvodů interoperability (což ale jde proti podnikatelské logice), garantovat větší ziskovost, menší chybovost, přehlednost, jasnost atd. nemohu. Nemohu ani garantovat to, že seženete F# programátora ochotného takový "mišmaš" udržovat/upravovat/předělávat.    
 
