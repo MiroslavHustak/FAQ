@@ -31,7 +31,7 @@ Pokud je "nezlanaříte" z konkurenčních firem v Praze anebo nechcete spolupra
 
 **Bude muset F# programátor znát kromě FP i celé OOP v F#?** 
 
-Ano i ne. Normálně tedy ani ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální (toto procento ale velmi závisí na okolnostech). Zbytek nejčastějí spočívá v nastavování vlastností (properties), inicializaci objektů (volání konstruktorů tříd), nějaká ta metoda či dědičnost se také vyskytne - vše v souvislosti s používanými knihovnami z .NET (výjimkou je builder pro CE s použitím metod na SCDU). Takže abych odpověděl na otázku - stačí jen minimální znalost OOP. Pokud byste se však chtěli zapojit do vývoje OSS a vytvořit třeba funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude třeba OOP znát.
+Ano i ne. Normálně tedy ani ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální (toto procento ale velmi závisí na okolnostech). Zbytek nejčastějí spočívá v nastavování vlastností (properties), inicializaci objektů (volání konstruktorů tříd), nějaká ta metoda či dědičnost se také tu a tam vyskytne - vše v souvislosti s používanými knihovnami z .NET (výjimkou je builder pro CE s použitím metod na SCDU). Takže abych odpověděl na otázku - stačí jen minimální znalost OOP. Pokud byste se však chtěli zapojit do vývoje OSS a vytvořit třeba funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude třeba OOP znát.
 
 **Je něco, co C# má a v F# to budu postrádat?** 
 
