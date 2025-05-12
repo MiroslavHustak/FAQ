@@ -4,7 +4,7 @@ Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu vám
 
 Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než v ekvivalentním C# kódu). Nicméně chápu, že někdo jiný může mít na "přehlednost a jasnost" zcela opačný názor, než já.
 
-**Příčiny větší ziskovosti F#?**
+**Jaké jsou příčiny větší ziskovosti F#?**
 
 Je to možná překvapivé, ale hlavním důvodem nejsou funkcionální prvky jako takové, ale:
 
