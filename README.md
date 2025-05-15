@@ -23,7 +23,7 @@ Striktně vzato plně funkcionálně nemůžete. Přiblížit se ano. Nicméně 
 
 **Ale i v F# jsou přece OOP a imperativní prvky ...** 
 
-Ano, jsou, kvůli interoperability s .NET knihovnami psanými v C#. Určitá disciplina v "nepoužívání něčeho" je tedy pro psaní funkcionálního kódu v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky ne z důvodů interoperability (což ale jde proti podnikatelské logice), garantovat větší ziskovost, menší chybovost, přehlednost, jasnost atd. nemohu. Nemohu ani garantovat to, že seženete F# programátora ochotného takový "mišmaš" udržovat/upravovat/předělávat.    
+Ano, jsou, kvůli interoperability s .NET knihovnami psanými v C#. Určitá disciplina v "nepoužívání něčeho" je tedy pro psaní funkcionálního kódu v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky ne z důvodů interoperability, ale "protože chcete" (což ale jde proti podnikatelské logice - proč potom jste investovali do F#, že?), garantovat větší ziskovost, menší chybovost, přehlednost, jasnost atd. nemohu. Nemohu ani garantovat to, že seženete F# programátora ochotného takový "mišmaš" udržovat/upravovat/předělávat.    
 
 **Kde seženu F# programátory?** 
 
