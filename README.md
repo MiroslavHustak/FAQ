@@ -29,7 +29,7 @@ Ano, jsou, kvůli interoperability s .NET knihovnami psanými v C#. Určitá dis
 
 Pokud funkcionální programátory "nezlanaříte" z konkurenčních firem v Praze anebo nechcete spolupracovat s "remote" F# programátory (těch je po světě plno), pak je seženete ve vlastní firmě. Funkcionální programování je jednoduché, intuitivní, naučení se FP je (dle informací z F# Slack) u dobrých programátorů otázka 3-4 dnů (pro samotný jazyk a pak ta samá doba pro každou technologii pro web, desktop či mobil), u běžných/obyčejných programátorů, jako jsem já, je to cca 2-3 týdny na jazyk/technologii (dle vlastní zkušenosti). Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzdělání a žádnou pomoc od kolegů, neb jsem OSVČ, pak už musí FP zvládnout opravdu každý, navíc kdy LLMs mohou často významně pomoci s výukovým procesem. Jediné, co může být velmi problematické, je neochota přepnout myšlení. Funkcionální programování je opravdu zcela jiné.
 
-Znalost matematiky 8. třídy ZŠ je vše, co budete běžně potřebovat. Pokud se budete pouštět do ML, DL, LLM atd. (jinými slovy do oblasti numerických řešení matematických či pravděpodobnostních modelů), tak tam je to stejné, jako u OOP nebo procedurálních programátorů - znalost matematiky prvních čtyř semestrů VŠ technického zaměření.
+Znalost matematiky 8. třídy ZŠ je vše, co budete běžně potřebovat. Jen pokud se budete pouštět do ML, DL, LLM atd. (jinými slovy do oblasti numerických řešení matematických či pravděpodobnostních modelů), tak tam je to stejné, jako u OOP nebo procedurálních programátorů - znalost matematiky prvních čtyř semestrů VŠ technického zaměření se docela hodí.
 
 **Bude muset F# programátor znát kromě FP i celé OOP v F#?** 
 
