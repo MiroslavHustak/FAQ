@@ -9,9 +9,9 @@ Subjektivní hledisko: Jasnější a přehlednější kód (je ho i méně, než
 Je to možná překvapivé, ale hlavním důvodem nejsou funkcionální prvky jako takové, ale:
 
 - Immutability všude
+- Single-direction dependency
 - Stejné typy ve všech větvích kódu
 - Absence nulls u F# typů (plus okamžitá eliminace nulls, které se snaží vplížit z .NET knihoven, pomocí Option nebo Result)
-- Single-direction dependency
 
 **Tomu nevěřím / nedovedu si to představit, jaký je důkaz?**
 
