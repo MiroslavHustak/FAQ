@@ -15,7 +15,7 @@ Je to možná překvapivé, ale hlavním důvodem nejsou funkcionální prvky ja
 
 **Tomu nevěřím / nedovedu si to představit, jaký je důkaz?**
 
-Bohužel, tady je třeba si to vyzkoušet a přesvědčit se sám (či někdo, komu věříte, což já nejsem), chápu, že může být těžké si z výše uvedeného představit větší ziskovost. Mohu Vám na požádání poskytnout veškeré své materiály ohledně funkcionálního programování, či byt jinak nápomocen **(například zdarma účastí na Vašem ověřovacím zkušebním F# projektu)**. 
+Bohužel, tady je třeba si to vyzkoušet a přesvědčit se sám (či někdo, komu věříte, což já nejsem), chápu, že může být těžké si z výše uvedeného představit větší ziskovost. Mohu Vám na požádání poskytnout veškeré své materiály ohledně funkcionálního programování, či byt jinak nápomocen **(například účastí na Vašem ověřovacím zkušebním F# projektu)**. 
 
 **V C# je dnes plno funkcionálních prvků, plně funkcionálně mohu přece programovat i v tomto jazyce?**
 
