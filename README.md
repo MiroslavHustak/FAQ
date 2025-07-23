@@ -12,6 +12,8 @@ Je to možná překvapivé, ale hlavním důvodem nejsou funkcionální prvky ja
 - Single-direction dependency
 - Stejné typy ve všech větvích kódu
 - Absence nulls u F# typů (plus okamžitá eliminace nulls, které se snaží vplížit z .NET knihoven, pomocí Option nebo Result)
+- Separace purity a impurity
+- Separace dat a operací s daty (což je zcela v protikladu s principy class-based OOP)
 
 **Tomu nevěřím / nedovedu si to představit, jaký je důkaz?**
 
