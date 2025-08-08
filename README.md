@@ -35,7 +35,7 @@ Znalost matematiky 8. třídy ZŠ je vše, co budete běžně potřebovat. Jen p
 
 **Snažíme se udržet konzistentní technologický stack, na OOP vždy dokážeme najít kvalifikované lidi.** 
 
-Mohou 14 dní v roce používat debugger a hledat chyby, anebo se mohou 14 dní v roce učit nějakou funkcionální technologii, se kterou debugger nebudou používat a ušetříte plno dalšího času na údržbě kódu. Co si vyberete vy? 
+Mohou třeba 14 dní v roce používat debugger a hledat chyby, anebo se mohou 14 dní v roce učit nějakou funkcionální technologii, se kterou debugger nebudou používat a ušetří plno dalšího času na údržbě kódu. Co si vyberete vy? 
 
 **Bude muset F# programátor znát kromě FP i celé OOP v F#?** 
 
