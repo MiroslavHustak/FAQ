@@ -33,7 +33,7 @@ Pokud funkcionální programátory "nezlanaříte" z konkurenčních firem v Pra
 
 Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzdělání a žádnou pomoc od kolegů, neb jsem OSVČ, pak už musí FP zvládnout opravdu každý, navíc kdy LLMs mohou často významně pomoci s výukovým procesem. Jediné, co může být velmi problematické, je neochota přepnout myšlení. Funkcionální programování je opravdu zcela jiné.
 
-Koneckonců se mohu o shánění programátorů postarat sám. Praxi v HR (byl jsem v minulosti vedoucí projekčního a konstrukčního oddělení) i formální vzdělání na Open University mám. 
+Koneckonců se mohu o shánění funkcionálních programátorů postarat sám. Praxi v HR i formální vzdělání na Open University mám (byl jsem v minulosti vedoucí projekčního a konstrukčního oddělení, které začínalo z nuly a musel jsem vybírat všechny kolegy sám). 
 
 **Musí F# programátoři znát vysokoškolskou matematiku?**
 
