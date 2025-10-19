@@ -2,7 +2,7 @@
 
 Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu vám FSC prakticky nic neodpustí a vyrobit chybu vyžaduje někdy hodně úsilí a znalostí :-) ), debugger se používá jen velmi zřídka, jestli vůbec, a to "zřídka" nastává zpravidla jen u interoperability s .NET knihovnami, unit testy pravděpodobně nemá smysl psát (při použití type-driven development s pomocí SCDU určitě nemá smysl psát), integration tests po úvaze (ale PBT dle mého názoru ano i při FP), méně problémů při paralelním programování (při používání pure či lazy functions), žádné nereprodukovatelné chyby u pure functions, při údržbě, doplňování, změnách je funkcionální kód "odolnější ("nerozhodí" se tak snadno), pro zabránění situací jako např. Mars Climate Orbiter Disaster má F# nativně zabudované units of measure s compile-time kontrolou na rozdíl od C#, který musí používat knihovnu a kontrola probíhá až při běhu programu.
 
-Subjektivní hledisko: Jasnější a přehlednější kód, je ho i méně, než ekvivalentního C# kódu https://youtu.be/ua6zxKSiQ_g?t=592. Nicméně chápu, že někdo jiný může mít na "přehlednost a jasnost" zcela opačný názor, než já. 
+Subjektivní hledisko: Jasnější a přehlednější kód, je ho i méně, než ekvivalentního C# kódu. Nicméně chápu, že někdo jiný může mít na "přehlednost a jasnost" zcela opačný názor, než já. 
 
 **Jaké jsou příčiny větší ziskovosti F#?**
 
@@ -25,7 +25,7 @@ Striktně vzato plně funkcionálně nemůžete. Přiblížit se ano. Nicméně 
 
 **Ale i v F# jsou přece OOP a imperativní prvky ...** 
 
-Ano, jsou, kvůli interoperability s .NET knihovnami psanými v C#. Určitá disciplína v "nepoužívání něčeho" je tedy pro psaní funkcionálního kódu v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky ne z důvodů interoperability, ale "protože jste na ně zvyklí" (což ale jde proti podnikatelské logice - proč jste tedy investovali do F#, že?), garantovat větší ziskovost, menší chybovost, přehlednost, jasnost atd. nemohu. Nemohu ani garantovat to, že seženete F# programátora ochotného takový "mišmaš" udržovat/upravovat/předělávat.    
+Ano, jsou, kvůli interoperability s .NET knihovnami psanými v C#. Určitá disciplína v "nepoužívání něčeho" je tedy pro psaní funkcionálního kódu v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky ne z důvodů interoperability, ale "protože jste na ně zvyklí" (což ale jde proti podnikatelské logice - proč jste tedy investovali do F#, že?), garantovat větší ziskovost, menší chybovost, přehlednost, jasnost atd. nemohu. Nemohu ani garantovat to, že seženete F# programátora ochotného takový "mišmaš" udržovat/upravovat/předělávat. Doporučuji shlédnout tuto část videa https://youtu.be/ua6zxKSiQ_g?t=592.   
 
 **Kde seženu F# programátory?** 
 
