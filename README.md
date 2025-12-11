@@ -33,7 +33,7 @@ Ano, jsou, kvůli interoperability s .NET knihovnami psanými v C#. Určitá dis
 
 Pokud funkcionální programátory "nezlanaříte" z konkurenčních firem v Praze anebo nechcete spolupracovat s "remote" F# programátory (těch je po světě plno) anebo nemáte developery programující v Rustu (Rust je do určité míry podobný F#, pomineme-li nízkoúrovňovost), pak se váš dosavadní nebo nově přijatý programátor FP prostě naučí, stejně jako např. v ostravské firmě Profiq, kde programátoři musí po přijetí do zaměstnání sami zvládnout funkcionální Elixir. Funkcionální programování je jednoduché, intuitivní, naučení se FP je (dle informací z F# Slack) u dobrých programátorů otázka 3-4 dnů (pro samotný jazyk a pak ta samá doba pro každou technologii pro web, desktop či mobil), u běžných/obyčejných programátorů, jako jsem já, je to cca 2-3 týdny na jazyk/technologii (dle vlastní zkušenosti). 
 
-Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzdělání a žádnou pomoc od kolegů, neb jsem OSVČ, pak už musí FP zvládnout opravdu každý, navíc kdy LLMs mohou často významně pomoci s výukovým procesem. Jediné, co může být velmi problematické, je lpění na starém a neochota přepnout myšlení. Funkcionální programování je opravdu zcela jiné.
+Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzdělání a žádnou pomoc od kolegů, neb jsem OSVČ, pak už musí FP zvládnout opravdu každý, navíc kdy LLMka mohou často významně pomoci s výukovým procesem. Jediné, co může být velmi problematické, je lpění na starém a neochota přepnout myšlení. Funkcionální programování je opravdu zcela jiné.
 
 Koneckonců se vám mohu o shánění funkcionálních programátorů postarat sám. Praxi v HR i formální vzdělání na Open University mám. 
 
