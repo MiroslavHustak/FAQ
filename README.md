@@ -4,7 +4,7 @@ Objektivní hledisko: Ziskovější, neb méně chyb (na rozdíl od Roslynu vám
 
 Subjektivní hledisko: Jasnější a přehlednější kód, je ho i méně, než ekvivalentního C# kódu. Nicméně chápu, že někdo jiný může mít na "přehlednost a jasnost" zcela opačný názor, než já. 
 
-Laťka potřeby nasadit microservices je u funkcionálního staticky typovaného programování obvykle mnohem výše. Funkcionální kód zůstává čistý a snadno udržovatelný podstatně déle než v OOP či dynamicky typovaných jazycích.
+Laťka potřeby nasadit microservices je u funkcionálního staticky typovaného programování obvykle mnohem výše. Funkcionální kód zůstává snadno udržovatelný podstatně déle než v OOP či dynamicky typovaných jazycích.
 
 **Jaké jsou příčiny větší ziskovosti F#?**
 
