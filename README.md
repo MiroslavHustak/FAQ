@@ -23,7 +23,7 @@ Bohužel, tady je třeba si to vyzkoušet a přesvědčit se sám (či někdo, k
 
 **V C# je dnes plno funkcionálních prvků, plně funkcionálně mohu přece programovat i v tomto jazyce?**
 
-Striktně vzato plně funkcionálně nemůžete. Přiblížit se ano. Nicméně zkuste si přepsat některý funkcionální kód v Haskellu či F# do "funkcionálního C#", a domnívám se, že sami velice rychle přijdete na to, že to opravdu není to, co byste chtěli (a že to bylo alespoň 2x delší, že? :-) ). C# nebylo na FP "konstruováno" - přidáním volantu a kol z Porsche (F#, Haskell) ke koloběžce (C#) z této koloběžky Porsche neuděláte.
+Striktně vzato plně funkcionálně nemůžete, navíc používání funkcionálních prvků samo o sobě neznamená, že váš kód je funkcionální. Nicméně zkuste si přepsat některý funkcionální kód v Haskellu či F# do "funkcionálního C#", a domnívám se, že sami velice rychle přijdete na to, že to opravdu není to, co byste chtěli (a že to bylo alespoň 2x delší, že? :-) ). C# nebylo na FP "konstruováno" - přidáním volantu a kol z Porsche (F#, Haskell) ke koloběžce (C#) z této koloběžky Porsche neuděláte.
 
 **Ale i v F# jsou přece OOP a imperativní prvky ...** 
 
