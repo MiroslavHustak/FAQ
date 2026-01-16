@@ -8,7 +8,7 @@ Laťka potřeby nasadit microservices je u funkcionálního staticky typovaného
 
 **Jaké jsou příčiny větší ziskovosti F#?**
 
-Je to možná překvapivé, ale hlavním důvodem nejsou funkcionální prvky jako takové, ale:
+Je to možná překvapivé, ale důvodem nejsou funkcionální prvky jako takové, ale:
 
 - Immutability všude
 - Single-direction dependency
