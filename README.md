@@ -49,6 +49,10 @@ Znalost matematiky 8. třídy ZŠ je vše, co budete běžně potřebovat. Jen p
 
 Ano i ne. Normálně tedy ani ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální. Zbytek nejčastějí spočívá v nastavování vlastností (properties) a volání konstruktorů tříd (většinou s "funkcionalizovanou" syntaxí) v souvislosti s používanými knihovnami z .NET (výjimkou je builder pro CE s použitím metod na SCDU). Procento "funkcionálnosti" ale velmi závisí na okolnostech, momentálně vytvářím "mini" LLM pomocí TorchSharp (ekv. PyTorch pro .NET) a tam už je OOP prvků více kvůli této knihovně, která je napsaná v objektově-orientovaném C++ (a přemalována na .NET). Takže abych odpověděl na otázku - stačí jen minimální znalost OOP. Pokud byste se však chtěli zapojit do vývoje OSS a vytvořit třeba funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude třeba OOP znát (kvůli interoperability).
 
+**Naši seniorní OOP vývojáři považují funkcionální programování za fetišismus ...**
+
+Seniorní OOP vývojáři obvykle strávili 10–20 let budováním své identity kolem OOP. Tato identita je jejich sociálním kapitálem v týmech, při pohovorech či při jednáních o výši platu. FP pro ně neznamená jen naučení se nové syntaxe — FP zpochybňuje jejich mentální model, který si roky internalizovali. Dědičnost, polymorfismus, návrhové vzory, zapouzdření, principy SOLID, dependency injection — celé jejich kariéry jsou postavené na věcech, které FP buď vůbec nepotřebuje, nebo je přímo považuje za škodlivé. Když juniorní vývojář v F# nebo Haskellu, který v životě neslyšel o OOP, nevědomky eliminuje celé kategorie chyb díky typovému systému, funkcím vyššího řádu, "immutability" a "pure functions", není to jen nepříjemné pro seniorního OOP programátora, který dané problémy eliminuje jen díky svým těžce získaným znalostem, je to i existenciální hrozba pro jeho profesní identitu.
+
 **Je něco, co C# má a v F# to budu postrádat?** 
 
 Ano, NullReferenceException :-). 
