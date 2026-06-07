@@ -49,7 +49,7 @@ Znalost matematiky 8. třídy ZŠ je vše, co budete běžně potřebovat. Jen p
 
 Ano i ne. Normálně tedy ani ne. Při běžném programování sice nebudete mít „100% Haskell-like“ kód, ale z velké části ano – třeba můj poslední program je z 98% funkcionální. Zbytek nejčastějí spočívá v nastavování vlastností (properties) a volání konstruktorů tříd (většinou s "funkcionalizovanou" syntaxí) v souvislosti s používanými knihovnami z .NET (výjimkou je builder pro CE s použitím metod na SCDU). Procento "funkcionálnosti" ale velmi závisí na okolnostech, momentálně vytvářím "mini" LLM pomocí TorchSharp (ekv. PyTorch pro .NET) a tam už je OOP prvků více kvůli této knihovně, která je napsaná v objektově-orientovaném C++ (a přemalována na .NET). Takže abych odpověděl na otázku - stačí jen minimální znalost OOP. Pokud byste se však chtěli zapojit do vývoje OSS a vytvořit třeba funkcionální wrapper nad nějakou .NET knihovnou či technologií, bude třeba OOP znát (kvůli interoperability).
 
-**Jak je to s "token efficiency"? Cena za token se stává stále více důležitým faktorem.** 
+**Jak je to s "token efficiency" F#? Cena za token se stává stále více důležitým faktorem.** 
 
 Nikdy jsem nepoužíval placené LLM, takže vás mohu jen odkázat na názor jiných - viz níže (můžete porovnat F# vůči C#):
 https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/
