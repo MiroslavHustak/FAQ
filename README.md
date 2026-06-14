@@ -55,6 +55,7 @@ Nikdy jsem nepoužíval placené LLM, takže vás mohu jen odkázat na názor ji
 https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/
 
 **Co když budeme potřebovat implementovat JavaScript, TypeScript, Python, Rust, Erlang, Dart nebo jiné platformy?**
+
 Prozkoumejte Fable 5 (ne ten od Anthropicu): https://fable.io
 Fable 5 překládá F# nejen do JavaScriptu (stable) a TypeScriptu (stable), ale i do Pythonu (beta), Dartu (beta), a Rustu (alpha), navíc ještě experimentálně do PHP a Erlangu. Místo přepisování stejné logiky do několika technologií můžete vyvíjet v jednom jazyce a cílit na více ekosystémů.
 
