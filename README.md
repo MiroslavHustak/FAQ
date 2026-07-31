@@ -68,4 +68,10 @@ Toto jste nechtěli slyšet, že?
 
 **Je něco, co C# má a v F# to budu postrádat?** 
 
-Ano, NullReferenceException :-). 
+Ano, NullReferenceException :-).
+
+---------------------------------------------------------------------------------------------------------
+"Object-oriented programs are offered as alternatives to correct ones."
+"Object-oriented programming is an exceptionally bad idea which could only have originated in California."
+
+Edsger W. Dijkstra (1930-2002), Dutch computer scientist, programmer, mathematician, and science essayist
