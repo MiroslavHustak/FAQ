@@ -27,7 +27,7 @@ Striktně vzato plně funkcionálně nemůžete, navíc používání funkcioná
 
 **Ale i v F# jsou přece OOP a imperativní prvky ...** 
 
-Ano, jsou, kvůli interoperability s .NET knihovnami psanými v C#. Určitá disciplína v "nepoužívání něčeho" je tedy pro psaní funkcionálního kódu v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky ne z důvodů interoperability, ale "protože jste na ně zvyklí" (což ale jde proti podnikatelské logice - proč jste tedy investovali do F#, že?), garantovat větší ziskovost, menší chybovost, přehlednost, jasnost atd. nemohu. Nemohu ani garantovat to, že seženete F# programátora ochotného takový "mišmaš" udržovat/upravovat/předělávat. Doporučuji shlédnout tuto část videa https://youtu.be/ua6zxKSiQ_g?t=592.   
+Ano, jsou, kvůli interoperability s .NET knihovnami psanými v C#. Určitá disciplína v "nepoužívání něčeho" je tedy pro psaní funkcionálního kódu v F# nutná, na rozdíl od Haskellu - viz https://github.com/MiroslavHustak/FSharp-Coding-Guidelines. Pokud budete používat imperativní a OOP prvky ne z důvodů interoperability, ale "protože jste na ně zvyklí" (což ale jde proti podnikatelské logice - proč jste tedy investovali do F#, že?), garantovat větší ziskovost, menší chybovost, přehlednost, jasnost atd. nemohu. Nemohu ani garantovat to, že seženete F# programátora ochotného takový "mišmaš" (odporující principu KISS) udržovat/upravovat/předělávat (například zoufalý majitel jedné malé investiční firmy z oblasti Detroitu nesehnal, a to v USA je Fšarpistů hodně). Doporučuji shlédnout tuto část videa https://youtu.be/ua6zxKSiQ_g?t=592.   
 
 **Kde seženu F# programátory?** 
 
