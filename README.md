@@ -71,14 +71,14 @@ Toto jste nechtěli slyšet, že?
 Ano, NullReferenceException :-).
 
 ---------------------------------------------------------------------------------------------------------
-"Object-oriented programs are offered as alternatives to correct ones."
+*"Object-oriented programs are offered as alternatives to correct ones."*
 
-"Object-oriented programming is an exceptionally bad idea which could only have originated in California."
+*"Object-oriented programming is an exceptionally bad idea which could only have originated in California."*
 
 Edsger W. Dijkstra (1930-2002), Dutch computer scientist, programmer, mathematician, and science essayist
 
 ---------------------------------------------------------------------------------------------------------
 
-"... limiting your project to C [instead of C++] means that people don’t screw things up with any idiotic object model."
+*"... limiting your project to C [instead of C++] means that people don’t screw things up with any idiotic object model."*
 
 Linus Torvalds, creator of Linux
