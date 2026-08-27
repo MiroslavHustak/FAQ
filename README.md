@@ -37,10 +37,6 @@ Když už mohu v F# programovat já, kterýžto nemá žádné formální IT vzd
 
 Koneckonců se vám mohu o shánění funkcionálních programátorů postarat sám. Praxi v HR i formální vzdělání na Open University mám. 
 
-**Musí F# programátoři znát vysokoškolskou matematiku?**
-
-Znalost matematiky 8. třídy ZŠ je vše, co budete běžně potřebovat. Jen pokud se budete pouštět do ML, DL, LLM atd. (jinými slovy do oblasti numerických řešení matematických či pravděpodobnostních modelů), tak tam je to stejné, jako u OOP nebo procedurálních programátorů - znalost matematiky prvních čtyř semestrů VŠ technického zaměření se docela hodí.
-
 **Snažíme se udržet konzistentní technologický stack, na OOP vždy dokážeme najít kvalifikované lidi ...** 
 
 ... a mohou třeba 14 dní v roce používat debugger a hledat chyby, anebo se mohou 14 dní v roce učit nějakou funkcionální technologii, se kterou debugger nebudou používat a ušetří plno dalšího času na údržbě kódu. Co si vyberete vy? 
