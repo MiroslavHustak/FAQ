@@ -49,6 +49,7 @@ Ano i ne. Normálně tedy ani ne. Při běžném programování sice nebudete m�
 
 Nikdy jsem nepoužíval placené LLM, takže vás mohu jen odkázat na názor jiných - viz níže (můžete porovnat F# vůči C# a dalším jazykům):
 https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/
+Spoiler: Samozřejmě to pro F# vychází příznivěji, než pro C#, Javu, JavaScript, Rust, C++, Go, PHP, ... :-).  
 
 **Co když budeme potřebovat implementovat JavaScript, TypeScript, Python, Rust, Erlang, Dart nebo jiné platformy?**
 
