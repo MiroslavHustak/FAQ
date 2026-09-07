@@ -47,10 +47,11 @@ Ano i ne. Normálně tedy ani ne. Při běžném programování sice nebudete m�
 
 **Jak je to s "token efficiency" F#? Cena za token se stává stále více důležitým faktorem.** 
 
-Nikdy jsem nepoužíval placené LLM, takže vás mohu jen odkázat na názor jiných - viz níže (můžete porovnat F# vůči C# a dalším jazykům):
+Nikdy jsem nepoužíval placené LLM*, takže vás mohu jen odkázat na názor jiných - viz níže (můžete porovnat F# vůči C# a dalším jazykům):
 https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/
 
 Spoiler: Samozřejmě to pro F# vychází příznivěji, než pro C#, Javu, JavaScript, Rust, C++, Go, PHP, ... :-).  
+* Pozn.: Jakožto maintainer OSS knihovny Fabulous už sice placené LLM používám (GPT 5.6 Sol), nicméně platí to jiní a bude to chvíli trvat, než budu moci ze statistik vyvozovat nějaké závěry.
 
 **Co když budeme potřebovat implementovat JavaScript, TypeScript, Python, Rust, Erlang, Dart nebo jiné platformy?**
 
