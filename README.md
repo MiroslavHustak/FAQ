@@ -52,7 +52,7 @@ https://martinalderson.com/posts/which-programming-languages-are-most-token-effi
 
 Spoiler: Samozřejmě to pro F# vychází příznivěji, než pro C#, Javu, JavaScript, Rust, C++, Go, PHP, ... :-).  
 
-\* *Pozn.: Jakožto maintainer OSS knihovny Fabulous už sice placené LLM používám (GPT 5.6 Sol), nicméně platí to jiní a bude to chvíli trvat, než budu moci ze statistik vyvozovat nějaké závěry.*
+\* *Pozn.: Jakožto nový maintainer OSS knihovny Fabulous už sice placené LLM od srpna 2026 používám (GPT 5.6 Sol), nicméně platí to jiní a bude to chvíli trvat, než budu moci ze statistik vyvozovat nějaké závěry.*
 
 **Co když budeme potřebovat implementovat JavaScript, TypeScript, Python, Rust, Erlang, Dart nebo jiné platformy?**
 
